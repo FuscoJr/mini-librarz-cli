@@ -1,4 +1,4 @@
-# Mini Bibnliothek (Terminal Programm)
+# Mini Bibliothek (Terminal Programm)
 
 Beschreibung:
 Dieses Programm ist eine einfache Konsolenanwendung zur Verwaltung einer kleinen Bibliothek.
